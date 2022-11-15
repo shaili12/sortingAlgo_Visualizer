@@ -9,5 +9,5 @@
 <b>Heap Sort</b><br>
 <b>Quick Sort</b><br>
 
-<h3>Snapshot of UI</h3
+<h3>Snapshot of UI</h3>
 <img src=" https://github.com/shaili12/sortingAlgo_Visualizer/blob/master/preview/Screenshot%202022-11-15%20at%208.10.26%20PM.png">
