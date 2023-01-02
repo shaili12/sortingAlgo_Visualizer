@@ -11,5 +11,4 @@
 
 <h3>Snapshot of UI</h3> 
 <button type="button"><a href="https://havealookonvisualizer.netlify.app/">LIVE DEMO</a></button> 
-<img src = "https://github.com/shaili12/sortingAlgo_Visualizer/blob/master/preview/Screenshot%202022-11-15%20at%208.10.26%20PM.png">
-
+<img src = "Screenshot 2022-11-15 at 8.10.26 PM.png">
